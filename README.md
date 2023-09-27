@@ -4,4 +4,4 @@
 - [x] - html
 - [x] - css
 - [X] - JavaScript
-- [ ] - Отчет
+- [x] - Отчет
